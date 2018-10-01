@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import pyperclip
 import requests
-import sys
 try: 
         from BeautifulSoup import BeautifulSoup
 except ImportError:
