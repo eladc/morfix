@@ -1,5 +1,5 @@
 # PyMilon
-Morfix translation for GNOME shell. Works both ways: He -> En & En -> He
+Morfix translation for GNOME shell. Works both ways: He <--> En
 
 forked from https://github.com/elig0n/morfix
 
