@@ -6,6 +6,7 @@ forked from https://github.com/elig0n/morfix
 
 ## Installation
 1. Install dependencies:
+
     pyp3 install beautifulsoup4 requests pyperclip
 
 2. Install argos extension for GNOME: https://github.com/p-e-w/argos
