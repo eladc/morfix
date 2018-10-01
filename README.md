@@ -1,5 +1,5 @@
 # PyMilon
-Morfix translation for GNOME shell. Works both ways (he->en && en->he)
+Morfix translation for GNOME shell. Works both ways: He -> En && En -> He
 
 forked from https://github.com/elig0n/morfix
 
@@ -12,5 +12,9 @@ forked from https://github.com/elig0n/morfix
 2. Install argos extension for GNOME: https://github.com/p-e-w/argos
 
 3. Put the script in ~/.config/argos
+
+## Usage
+1. Copy text to clipboard
+2. Cilck on the extension
 
 ![alt text](https://i.imgur.com/rldlQIh.jpg)
