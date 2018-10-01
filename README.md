@@ -1,7 +1,7 @@
 # PyMilon
 Morfix translation for GNOME shell. Works both ways: He <--> En
 
-forked from https://github.com/elig0n/morfix
+Based on https://github.com/elig0n/morfix
 
 
 ## Installation
