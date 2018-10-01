@@ -9,8 +9,10 @@ except ImportError:
 ## Get text from clipboard
 text=pyperclip.paste()
 
+## base URL
 url = 'http://www.morfix.co.il/'
 
+## read URL
 def getHtml():
     try:
         r = requests.get(url+text) 
@@ -21,7 +23,7 @@ def getHtml():
 ## extension title
 print("PyMilon\n--")
 
-## extention output
+## extension output
 if len(text.split(' ')) > 3:
     print("No term specified")
 else:
